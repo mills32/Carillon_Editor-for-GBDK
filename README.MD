@@ -22,11 +22,19 @@ Multiple Songs in One Music Bank
 In the current version the starting positions for songs are fixed:
 
  Song 0 - Starting at $00
+ 
  Song 1 - Starting at $80
+ 
  Song 2 - Starting at $40
+ 
  Song 3 - Starting at $c0
+ 
  Song 4 - Starting at $20
+ 
  Song 5 - Starting at $60
+ 
  Song 6 - Starting at $a0
+ 
  Song 7 - Starting at $e0
+ 
 
