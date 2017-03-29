@@ -10,8 +10,8 @@ To use it:
 
 A modified bin2s will convert the carillon sav to asm code 
 If the sav file is called "music.b3.sav":
-		music will fill bank 3
-		samples will fill bank 4
+		music will fill bank 3	
+		samples will fill bank 4	
 Still no way to remove the samples if the song is not using them.
 
 
